@@ -23,6 +23,6 @@ html {
     color: rgb(255, 192, 203);
 }
 
-div {
+#parent > p {
     font-weight: bold;
 }
